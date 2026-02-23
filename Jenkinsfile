@@ -1,4 +1,4 @@
-[12:37 pm, 23/2/2026] +91 98456 96399: pipeline {
+ pipeline {
     agent any  // Use any available agent
 
     tools {
